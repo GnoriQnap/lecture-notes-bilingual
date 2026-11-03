@@ -1,6 +1,6 @@
 # Lecture Notes Bilingual
 
-将课堂录音转写与对应课件整理成忠实、完整、按知识逻辑组织的中英或中韩双语 Obsidian 笔记。
+将课堂录音转写与对应课件整理成详细、完整、按知识逻辑组织的中英或中韩双语 Obsidian 笔记。Chatgpt 的 chat 窗口可用。
 
 ## 内容
 
