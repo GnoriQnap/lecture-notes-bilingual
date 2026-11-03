@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Pan Qirong"
+  },
+  "description": "将课堂录音转写与对应课件整理成忠实、完整、按知识逻辑组织的中英或中韩双语 Obsidian 笔记。",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [],
+        "defaultPrompt": "请完整阅读我上传的课堂录音转写和对应课件，先输出本节课知识地图，再按 Lecture Notes Bilingual 规范整理完整双语笔记。",
+        "developerName": "Pan Qirong",
+        "displayName": "Lecture Notes Bilingual",
+        "longDescription": "完整阅读课堂转写与课件，按概念依赖重组知识，保留教授解释、例子、推导及真实考试提示，生成中英或中韩双语笔记与知识地图。无需外部 App、连接器或 MCP 工具。",
+        "shortDescription": "课堂转写与课件整理为完整双语笔记"
+      }
+    }
+  },
+  "name": "lecture-notes-bilingual",
+  "version": "1.0.0"
+}
